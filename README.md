@@ -1,1 +1,1 @@
- [museum](https://zemfira-shafi.github.io/museum/)
+ [museum](https://zemfira-shafi.github.io/museum/museum-adaptive)
